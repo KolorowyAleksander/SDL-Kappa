@@ -8,5 +8,5 @@
 $ cd bin
 $ cmake ..
 $ make
-$ ./SDL2Test
+$ ./kappa
 ```
